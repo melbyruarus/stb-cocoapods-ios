@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name                  = 'stb_image-ios'
-  spec.version               = '1.0.0'
+  spec.version               = '1.0.1'
 
   spec.license               = { :type => 'public domain', :text => <<-LICENSE
                                 This software is in the public domain. Where that dedication is not
